@@ -1,0 +1,4 @@
+
+- web-based interactive visualization app
+- python library for individual stock analysis
+- python web applications (flask, django)

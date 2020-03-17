@@ -1,0 +1,4 @@
+command line:
+python -m pip install plotly
+
+python -m pip install plotly --upgrade
